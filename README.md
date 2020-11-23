@@ -9,7 +9,7 @@ GENERATED FROM [maintenance support](https://t.me/jacob_paul1)
 
 
 
-[![ANAMIKA](https://telegra.ph/file/1ffaef57cd82f15236aa2.jpg)]
+[![ANAMIKA](https://telegra.ph/file/c53bef5da1c934b983311.jpg)]
 
 
 
