@@ -44,7 +44,7 @@ HELLO   {}, MY NAME IS {} !
 
 🌀* AH GROUP MANAGEMENT... IT'S ALL FUN AND GAMES YOU KNOW HOW TO HARD IT IS⚠️.Sometimes To Manage Group So Here is The Solution For You*🎶
 
-🌀* MY CREATOR IS *  [『𝔸ʟ℘нส ℙнεøηเא』᚜ 𝙳𝚞𝚕𝚚𝚞𝚎𝚛 ᚛ CʏʙᴇʀPʀᴏGᴀɴɢ™️🇮🇳](t.me/fun_heat)
+🌀* MY CREATOR IS *  [『𝔸ʟ℘нส ℙнεøηเא』᚜ 𝙳𝚞𝚕𝚚𝚞𝚎𝚛 ᚛ CʏʙᴇʀPʀᴏGᴀɴɢ™️🇮🇳 ︽I C A F ︾🇮🇳 ](t.me/fun_heat)
 
 🌀*Click /help or Help button below to find out more about how to use me to my full potential.☣️*
 
