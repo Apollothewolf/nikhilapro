@@ -40,16 +40,13 @@ PM_START_TEXT = """
 ┉┉┉┉▔▔
 
 
-HOI    {}, MY NAME IS {} !
+HELLO   {}, MY NAME IS {} !
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+🌀* AH GROUP MANAGEMENT... IT'S ALL FUN AND GAMES YOU KNOW HOW TO HARD IT IS⚠️.Sometimes To Manage Group So Here is The Solution For You*🎶
 
-[THIS FELLOW](tg://user?id={}).
+🌀* MY CREATOR IS *  [『𝔸ʟ℘нส ℙнεøηเא』᚜ 𝙳𝚞𝚕𝚚𝚞𝚎𝚛 ᚛ CʏʙᴇʀPʀᴏGᴀɴɢ™️🇮🇳](t.me/fun_heat)
 
-THIS BOT CAN'T JOIN YOUR GROUPS!
-
-
-[Support](t.me/jacob_paul1)
+🌀*Click /help or Help button below to find out more about how to use me to my full potential.☣️*
 
 """
 
